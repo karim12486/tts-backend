@@ -1,0 +1,9 @@
+POST http://localhost:8080/api/tts
+Content-Type: application/json
+
+{
+  "text": "الله اكبر"
+}
+
+###
+
